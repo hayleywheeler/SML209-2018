@@ -9,7 +9,7 @@
 <hr>
 <p> Between these two tags should be written as a paragraph. To start a new paragraph simply just enter two new tags. </p>
 <hr>
-Testing to see <br> how making <br> works. 
+Testing to see <br> how making <br> breaks work. 
 <hr>
 <strong> Bold text.</strong> 
 <em> Italic text. </em>
@@ -36,5 +36,5 @@ Testing to see <br> how making <br> works.
   <li> I need to finish my Russian grammar </li> </ul>
   <hr>
   <h4> My favourite things </h4> 
-  <ol> <li> Chocolate eclairs </li> <li> Dance Moms </li> <li> <li> Shopping </li> </ol>
+  <ol> <li> Chocolate eclairs </li> <li> Dance Moms </li> <li> Shopping </li> </ol>
   <hr>
