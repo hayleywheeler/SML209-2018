@@ -13,7 +13,7 @@ Testing to see <br> how making <br> works.
 <hr>
 <strong> Bold text.</strong> 
 <em> Italic text. </em>
-<u> Underlined text.</u>
+<u> Underlined text. </u>
 <hr>
 <ul> <li> This </li> 
 <li> Is </li>
@@ -25,3 +25,5 @@ Testing to see <br> how making <br> works.
 <ol> <li> Instruction </li>
 <li> List </li> </ol>
 <hr> 
+<p> Below is a link to my QMplus Hub </p>
+<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml16168&page=sml209-computers-and-languages-hayley-wheeler"> My QMplus Hub</a>
