@@ -1,5 +1,8 @@
 <h1> HTML Part 2 Homework </h1><h2>Tuesday 16<sup>th</sup> October</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg" alt= "Image of Great Britain">
+< a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg"
+title="View Image Source">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg" alt= "Image of Great Britain"> 
+</a>
 <dl>
 <dt>Great Britain</dt>
   <dd>Great Britain is the island consisting of England, Scotland, and Wales, which together with Northern Ireland makes up the United Kingdom.</dd>
