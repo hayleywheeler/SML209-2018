@@ -1,7 +1,7 @@
 <h1> HTML Part 2 Homework </h1><h2>Tuesday 16<sup>th</sup> October</h2>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg"
 title="View Image Source">
-<img style="width:70%; border:1px solid #021a40;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg" 
+<img style="width:70%; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/800px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg" 
 alt= "Image of Great Britain"> 
 </a>
 <dl>
