@@ -25,7 +25,7 @@ Testing to see <br> how making <br> breaks work.
 <ol> <li> Instruction </li>
 <li> List </li> </ol>
 <hr> 
-<p> I'm Hayley, I was born in Essex but I grew up and come from the Isle of Wight in the South of England. I moved to study in London in September 2016 and this is currently my third year studying at Queen Mary University of London </p> 
+<p style="color:red;"> I'm Hayley, I was born in Essex but I grew up and come from the Isle of Wight in the South of England. I moved to study in London in September 2016 and this is currently my third year studying at Queen Mary University of London </p> 
 <hr>
 <p> Below is a link to my QMplus Hub </p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml16168&page=sml209-computers-and-languages-hayley-wheeler"> My QMplus Hub</a>
