@@ -1,9 +1,9 @@
 <font color="red">
-<h1>Learn Spanish in under a <em>month?</em></h1>
-<h3> You heard that right! Do you want to learn basic Spanish in under a month? Going on holiday or meeting the Spanish inlaws? Have GCSE exams in a few week? No problem. </h3>
+<h1 style="background-color:#ff9933;">Learn Spanish in under a <em>month?</em></h1>
+<h3 style="background-color:#ff9933;"> You heard that right! Do you want to learn basic Spanish in under a month? Going on holiday or meeting the Spanish inlaws? Have GCSE exams in a few week? No problem. </h3>
 <hr>
 
-<p> On this site, you will be able to learn and revise the following content. </p> 
+<p style="background-color:#ff9933;"> On this site, you will be able to learn and revise the following content. </p> 
 <ul> <li> Basic vocabulary; who you are, how old you are, where you live, people, places and food. </li>
 <li> Basic grammar; possessives, verb conjugation, masculine and feminine nouns and adjectives. </li> 
 <li> Pronunciation </li>
