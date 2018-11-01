@@ -1,3 +1,9 @@
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #e41111;
+}
 <font color="red"><h1>Learn Spanish in under a <em>month?</em></h1>
 <h3> You heard that right! Do you want to learn basic Spanish in under a month? Going on holiday or meeting the Spanish inlaws? Have GCSE exams in a few week? No problem. </h3>
 <hr>
