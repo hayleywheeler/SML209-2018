@@ -1,7 +1,3 @@
-p {
-    font-family: "Verdana", Geneva, sans-serif;
-}
-
 <font color="red">
 <h1 style="color:red;">Learn Spanish in under a <em>month?</em></h1>
 <h3 style="color:red;"> You heard that right! Do you want to learn basic Spanish in under a month? Going on holiday or meeting the Spanish inlaws? Have GCSE exams in a few week? No problem. </h3>
