@@ -1,5 +1,5 @@
 <font color="white">
-  <h1 style="color:white"">Learn Spanish in under a <em>month?</em></h1>
+  <h1 style="color:white">Learn Spanish in under a <em>month?</em></h1>
 <h3 style="color:white"> You heard that right! Do you want to learn basic Spanish in under a month? Going on holiday or meeting the Spanish inlaws? Have GCSE exams in a few week? No problem. </h3>
 <hr>
 
