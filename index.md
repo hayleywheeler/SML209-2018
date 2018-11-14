@@ -11,5 +11,5 @@
 
 <hr> 
 <p> Below is a link to my QMplus Hub </p>
-</div>
+
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml16168&page=sml209-computers-and-languages-hayley-wheeler"> My QMplus Hub</a>
