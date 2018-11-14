@@ -6,7 +6,7 @@
   <div style="clear:both;"> </div>
   
   <p>
-  <a style="float:right;" href="page3.html"> Go back 1</a>
+  <a style="float:right;" href="page3.html"> Go back </a>
   </p> 
   <div style="clear:both;"> </div>
 
