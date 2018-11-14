@@ -4,8 +4,7 @@
 title="View Image Source">
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" border="5"> 
-</a>
-England, birthplace of Shakespeare and The Beatles, is a country in the British Isles bordering Scotland and Wales. The capital, London, on the River Thames, is home of Parliament, Big Ben and the 11th-century Tower of London. It's also a multicultural, modern hub for the arts and business. Other large cities are Manchester, Birmingham, Liverpool, Bristol and the university centres of Oxford and Cambridge.
+</a> <em> Did you know? </em> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexia, Nicaragua and of course Spain! 
 
 </p>
 
