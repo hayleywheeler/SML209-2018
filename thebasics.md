@@ -24,7 +24,7 @@
   </tr> 
   <tr>  
     <th> Quisiera...</th> 
-    <th I would like... </th> 
+    <th> I would like... </th> 
     </tr> 
   <tr> 
     <th> Sí</th>
