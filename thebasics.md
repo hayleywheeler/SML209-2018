@@ -1,15 +1,15 @@
 
 <p lang="ru">
 
-<h1> About Spanish </h1>
+<h1 style="color:red;"> About Spanish </h1>
 <p>
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" border="5"> 
 </a> <em> Did you know? </em> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexia, Nicaragua and of course Spain! 
 
-<p> So... let's begin! Here is a table of the vocabularly we will be learning</p>
+<p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning.</p>
 
-<table> 
+<table style="color:red;"> 
   <tr> 
     <th> ¡Hola! </th>
     <th> Hello! </th> 
