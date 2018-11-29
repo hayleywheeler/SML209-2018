@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Let's Learn! Spanish edition.
 description: Simple steps to perfect Spanish.
 github:
-  page2: thebasics.html
+  thebasics: thebasics.html
   page3: page3.html
   page4: page4.html
   page5: page5.html
