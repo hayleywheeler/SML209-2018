@@ -22,6 +22,7 @@ a {
     color: #dc0e0e;
     text-decoration: none;
 }
+
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
@@ -32,8 +33,9 @@ a {
     border-width: 1px;
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-    
-    .btn2 {
+}
+
+.btn2 {
   border-radius: 4px;
   background-color:#3a6186;
   border: none;
