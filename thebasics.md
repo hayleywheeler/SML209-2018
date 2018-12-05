@@ -30,5 +30,51 @@
     <th> Sí</th>
     <th> Yes </th>
   </tr>
+   <tr> 
+    <th> No</th>
+    <th> No </th>
+  </tr>
+   <tr> 
+    <th> Por favor</th>
+    <th> Please </th>
+  </tr>
+   <tr> 
+    <th> Gracias </th>
+    <th> Thank you </th>
+  </tr>
+   <tr> 
+    <th> Buenos días!</th>
+    <th> Good morning! </th>
+  </tr>
+  <tr> 
+    <th> Buenas noches!</th>
+    <th> Good evening! </th>
+  </tr>
+  <tr> 
+    <th> Me llamo</th>
+    <th> My name is </th>
+  </tr>
+  <tr> 
+    <th> Playa </th>
+    <th> Beach </th>
+  </tr>
+  <tr> 
+    <th> Hotel</th>
+    <th> Hotel </th>
+  </tr>
+  <tr> 
+    <th> Restaurante</th>
+    <th> Restaurant </th>
+  </tr>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
       
