@@ -5,7 +5,7 @@
 <p>
 <p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning.</p>
 
-<table align="left" style="color:red;"> 
+<table class="tableLeft" style="color:red;"> 
   <tr> 
     <th> ¡Hola! </th>
     <th> Hello! </th> 
