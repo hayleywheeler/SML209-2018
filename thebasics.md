@@ -3,7 +3,7 @@
 
 <h1 style="color:red;"> About Spanish </h1>
 <p>
-<p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning.</p>
+<p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to after you have learnt everything on this beginner website. When you're ready, click to see the Spanish alphabet and let's get started! </p>
 
 <p>
   <a style="float:right;" href="TheAlphabet.html" class="btn2"> Go to the Spanish Alphabet</a>
