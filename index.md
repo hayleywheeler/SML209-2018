@@ -23,7 +23,7 @@
 
 <img class="imgLeft" src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="400" height="400"> 
 
-<ul style="float:right;">
+<ul>
   <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Mexico"> Mexico </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Cuba"> Cuba </a></li>
@@ -46,6 +46,4 @@
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Bolivia"> Bolivia </a></li> </ul>
 
 <hr> 
-<p> Below is a link to my QMplus Hub </p>
-
-<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=ml16168&page=sml209-computers-and-languages-hayley-wheeler"> My QMplus Hub</a>
+<div style="clear:both;"></div>
