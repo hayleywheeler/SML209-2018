@@ -10,7 +10,7 @@
 <li> Pronunciation </li>
 <li> And most importantly, how to act like a real Spaniard. </li></ul> </font>
 
-<img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="50%" height="50%"> 
+<img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="200" height="200"> 
 
 <em style="color:red;"> Did you know? </em> 
 
