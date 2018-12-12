@@ -94,6 +94,10 @@
     <th> Hermano </th>
     <th> Brother </th>
   </tr>
+   <tr> 
+    <th> Años </th>
+    <th> Years </th>
+  </tr>
    
   
   
