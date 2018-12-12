@@ -6,7 +6,7 @@
 <p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning.</p>
 
 <p>
-  <a style="float:right;" href="thealphabet.html" class="btn2"> Go to the Spanish Alphabet</a>
+  <a style="float:right;" href="TheAlphabet.html" class="btn2"> Go to the Spanish Alphabet</a>
   </p> 
   <div style="clear:both;"> </div>
 
