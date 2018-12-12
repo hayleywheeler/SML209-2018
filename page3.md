@@ -1,5 +1,6 @@
-<h1 style="color:red;"> All about grammar! </h1>
+<h1 style="color:red;"> All about nouns! </h1>
 <hr> 
+<p> We all know that nouns are things, people or places but how do we put these things into Spanish? Simple, use the exercises below and let's get learning! </p>
 
 <p>
   <a style="float:right;" href="practice.html" class="btn2"> Go to Exercise 1</a>
