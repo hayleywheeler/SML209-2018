@@ -21,7 +21,7 @@
 <p style="clear:both;"></p>
 <p style="color:red;"> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
 
-<img class="imgLeft" src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="400" height="400"> 
+<iframe src="https://www.google.com/maps/d/embed?mid=1TCRxFKWh_MvFBfFMphvu6G6cd2xhLytF" width="640" height="480"></iframe>
 
 <ul>
   <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
