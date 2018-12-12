@@ -30,7 +30,7 @@
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Dominican_Republic"> Dominican Republic </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Puerto_Rico"> Puerto Rico </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Venezuela"> Venezuela </a></li>
-<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Columbia"> Columbia </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Colombia"> Colombia </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Ecuador"> Ecuador </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Paraguay"> Paraguay </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Uruguay"> Uruguay </a></li>
