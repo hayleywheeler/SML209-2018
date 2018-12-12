@@ -10,7 +10,7 @@
 <li> And most importantly, how to act like a real Spaniard. </li></ul> </font>
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" border="5"> 
-<em> Did you know? </em> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! 
+<em style="color:red;"> Did you know? </em> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! 
 
 
 <hr> 
