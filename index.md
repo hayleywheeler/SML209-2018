@@ -12,7 +12,9 @@
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="200" height="150"> 
 
 <em style="color:red;"> Did you know? </em> 
-<p style="color:red;"> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! </p>
+<p style="color:red;"> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
+<img src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="300" height="300"> 
+
 
 
 <hr> 
