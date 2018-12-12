@@ -26,8 +26,8 @@
   <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Mexico"> Mexico </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Cuba"> Cuba </a></li>
-<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/DominicanRepublic"> Dominican Republic </a></li>
-<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/PuertoRico"> Puerto Rico </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Dominican_Republic"> Dominican Republic </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Puerto_Rico"> Puerto Rico </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Venezuela"> Venezuela </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Columbia"> Columbia </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Ecuador"> Ecuador </a></li>
@@ -35,10 +35,10 @@
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Uruguay"> Uruguay </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Argentina"> Argentina </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Guatemala"> Guatemala </a></li>
-<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/ElSalvador"> El Salvador </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/El_Salvador"> El Salvador </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Honduras"> Honduras </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Nicaragua"> Nicaragua </a></li>
-<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/CostaRica"> Costa Rica </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Costa_Rica"> Costa Rica </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Panama"> Panama </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Peru"> Peru </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Chile"> Chile </a></li>
