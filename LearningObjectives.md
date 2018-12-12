@@ -1,7 +1,7 @@
 
 <p lang="ru">
 
-<h1 style="color:red;"> About Spanish </h1>
+<h1 style="color:red;"> Everything You Will Need To Know </h1>
 <p>
 <p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to after you have learnt everything on this beginner website. When you're ready, click to see the Spanish alphabet and let's get started! </p>
 
