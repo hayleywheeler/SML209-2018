@@ -5,6 +5,8 @@
 <p>
 <p style="color:red;"> So... let's begin! Here is a table of the vocabularly we will be learning.</p>
 
+<img class="imgRight" src="https://cdn.shopify.com/s/files/1/2053/8859/products/mockup-3de8494b_2048x.jpg?v=1542907775~" alt="Spanish Alphabet">
+
 <table style="color:red;"> 
   <tr> 
     <th> ¡Hola! </th>
