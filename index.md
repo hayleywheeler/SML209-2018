@@ -23,8 +23,8 @@
 
 <img class="imgLeft" src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="400" height="400"> 
 
-<ul align="right">
-  <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
+<ul>
+  <li align="right"> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Mexico"> Mexico </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Cuba"> Cuba </a></li>
 <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Dominican_Republic"> Dominican Republic </a></li>
