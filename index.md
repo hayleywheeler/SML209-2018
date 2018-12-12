@@ -22,26 +22,27 @@
 
 <img src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="400" height="400"> 
 
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Mexico"> Mexico </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Cuba"> Cuba </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/DominicanRepublic"> Dominican Republic </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/PuertoRico"> Puerto Rico </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Venezuela"> Venezuela </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Columbia"> Columbia </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Ecuador"> Ecuador </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Paraguay"> Paraguay </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Uruguay"> Uruguay </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Argentina"> Argentina </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Guatemala"> Guatemala </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/ElSalvador"> El Salvador </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Honduras"> Honduras </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Nicaragua"> Nicaragua </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/CostaRica"> Costa Rica </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Panama"> Panama </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Peru"> Peru </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Chile"> Chile </a>
-<a style= "color:red;" href="https://en.wikipedia.org/wiki/Bolivia"> Bolivia </a>
+<ul>
+  <li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Spain"> Spain </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Mexico"> Mexico </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Cuba"> Cuba </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/DominicanRepublic"> Dominican Republic </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/PuertoRico"> Puerto Rico </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Venezuela"> Venezuela </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Columbia"> Columbia </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Ecuador"> Ecuador </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Paraguay"> Paraguay </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Uruguay"> Uruguay </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Argentina"> Argentina </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Guatemala"> Guatemala </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/ElSalvador"> El Salvador </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Honduras"> Honduras </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Nicaragua"> Nicaragua </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/CostaRica"> Costa Rica </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Panama"> Panama </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Peru"> Peru </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Chile"> Chile </a></li>
+<li> <a style= "color:red;" href="https://en.wikipedia.org/wiki/Bolivia"> Bolivia </a></li> </ul>
 
 <hr> 
 <p> Below is a link to my QMplus Hub </p>
