@@ -11,7 +11,8 @@
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="300" height="200"> 
 
-<em style="color:red;"> Did you know? </em> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! </p>
+<em style="color:red;"> Did you know? </em> 
+<p> That there are 22 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! </p>
 
 
 <hr> 
