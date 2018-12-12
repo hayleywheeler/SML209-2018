@@ -14,7 +14,9 @@
 
 <em style="color:red;"> Did you know? </em> 
 
-<p style="color:red;"> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain!There are approximately 350 million native Spanish speakers in the world. </p>
+<p style="color:red;"> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.
+
+</p>
 
 <hr> 
 
