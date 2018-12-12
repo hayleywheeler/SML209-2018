@@ -18,7 +18,7 @@
 
 <hr> 
 
-<p style="color:red;"> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
+<h3 style="color:red;"> Below is a world map showing the countires in which Spanish is spoken as their native language.</h3>
 
 <img src="https://sites.google.com/a/rsu35.org/profe-spanish-1/_/rsrc/1474069579712/unit-1-me-presento/3-geography-of-the-spanish-speaking-world/mapa%20del%20mundo%20hispanohablante.gif" alt= "Image of Spanish Speaking Countries" width="400" height="400"> 
 
