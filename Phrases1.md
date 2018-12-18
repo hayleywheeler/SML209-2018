@@ -1,5 +1,5 @@
 <p>
-  <a style="float:right;" href="BasicPhrases.html" class="btn2"> Go to Basic Phrases1</a>
+  <a style="float:right;" href="BasicPhrases.html" class="btn2"> Go to back to Basic Phrases</a>
   </p> 
   <div style="clear:both;"> </div>
   
