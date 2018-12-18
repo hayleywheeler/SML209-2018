@@ -1,7 +1,7 @@
 <h1 style="color:red;"> The Spanish Alphabet </h1>
 
 <p>
-  <a style="float:right;" href="page3.html" class="btn2"> Go to Places</a>
+  <a style="float:right;" href="BasicNouns.html" class="btn2"> Go to Basic Nouns</a>
   </p> 
   <div style="clear:both;"> </div>
 
