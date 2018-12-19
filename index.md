@@ -4,7 +4,7 @@
 
 <hr>
 
-<p style="color:red;"> On this site, you will be able to learn and revise the following content. </p> 
+<p> On this site, you will be able to learn and revise the following content. </p> 
 <ul style="color:red;"> <li> Basic vocabulary; who you are, how old you are, where you live, people, places and food. </li>
 <li> Basic grammar; possessives, verb conjugation, masculine and feminine nouns and adjectives. </li> 
 <li> Pronunciation </li>
@@ -12,16 +12,16 @@
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="50%"> 
 
-<em style="color:red;"> Did you know? </em> 
+<em > Did you know? </em> 
 
-<p style="color:red;"> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.
+<p> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.
 
 </p>
 
 <hr> 
 
 <p style="clear:both;"></p>
-<p style="color:red;"> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
+<p> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TCRxFKWh_MvFBfFMphvu6G6cd2xhLytF" width="640" height="480"></iframe>
 
