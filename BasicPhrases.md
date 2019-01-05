@@ -17,3 +17,8 @@
 <hr> 
  
  <p> Not too bad right? Although these are not ALL the phrases spoken in the Spanish language, it does cover quite a large range. From knowing these, you are already capable of saying your name, asking how someone is, asking where a place is and saying hello and goodbye. Let's expand on this a bit more. </p> 
+ 
+<p>
+  <a style="float:right;" href="Phrases3.html" class="btn2"> Go to Basic Phrases Exercise 3</a>
+  </p> 
+  <div style="clear:both;"> </div>
