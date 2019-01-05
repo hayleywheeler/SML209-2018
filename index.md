@@ -6,7 +6,7 @@
 
 <p> On this site, you will be able to learn and revise the following content. </p> 
 <ul style="color:red;"> <li> Basic vocabulary; who you are, how old you are, where you live, places and food. </li>
-<li> Basic grammar;basic verb conjugation, masculine and feminine nouns and adjectives. </li> 
+<li> Basic grammar; basic verb conjugation, masculine and feminine nouns and adjectives. </li> 
 <li> Pronunciation </li>
 <li> And most importantly, how to act like a real Spaniard. </li></ul> </font>
 
