@@ -3,7 +3,7 @@
 
 <h1 style="color:red;"> Everything You Will Need To Know </h1>
 <p>
-<p> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to after you have learnt everything on this beginner website. When you're ready, click to see the Spanish alphabet and let's get started! </p>
+<p> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to, after you have learnt everything on this beginner website. When you're ready, click to see the Spanish alphabet and let's get started! </p>
 
 <p>
   <a style="float:right;" href="TheAlphabet.html" class="btn2"> Go to the Spanish Alphabet</a>
@@ -56,24 +56,24 @@
     <th> My name is </th>
   </tr>
   <tr> 
-    <th> Playa </th>
-    <th> Beach </th>
+    <th> La playa </th>
+    <th> The beach </th>
   </tr>
   <tr> 
-    <th> Hotel</th>
-    <th> Hotel </th>
+    <th> El hotel</th>
+    <th> The hotel </th>
   </tr>
   <tr> 
-    <th> Restaurante</th>
-    <th> Restaurant </th>
+    <th> El restaurante</th>
+    <th> The restaurant </th>
   </tr>
     <tr> 
-    <th> Tienda </th>
-    <th> Shop </th>
+    <th> La tienda </th>
+    <th> The shop </th>
   </tr>
     <tr> 
-    <th> Supermercado </th>
-    <th> Supermarket </th>
+    <th> El supermercado </th>
+    <th> The supermarket </th>
   </tr>
     <tr> 
     <th> Tengo </th>
