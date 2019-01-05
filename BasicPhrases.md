@@ -7,6 +7,8 @@
   </p> 
   <div style="clear:both;"> </div>
 
+<hr> 
+
 <p> Now you have seen a few Spanish phrases in day-to-day situations, let's memorise them! Some you may have already met in the previous exercise, but some you may have only seen on the 'Learning Objective' page which you can go back to using the top navigation bar! Otherwise, give it a shot or just click 'check' on the activity to find the definition. You may need a Spanish keyboard to answer some of the questions, you can easily find this on your desktop or by switching keyboards on your smartphone. </p> 
 
 <p>
@@ -22,3 +24,13 @@
   <a style="float:right;" href="Phrases3.html" class="btn2"> Go to Basic Phrases Exercise 3</a>
   </p> 
   <div style="clear:both;"> </div>
+  
+  <p> Now let's put it all together! Below is an example of a conversation (and audio) using all these phrases! If this is too much for you, don't worry, it's a lot of words. Feel free to go over the past three exercises or just take a sit down and let it all sink in. It's better to do these exercises over a period of several days.it will stick in the long term part of your brain better! </p>
+  
+  <p style="color:red;"> 
+  
+  Person 1: ¡Hola!
+  Person 2: ¡Hola! ¿Qué tal?
+  Person 1: Bien, gracias. 
+  
+  
