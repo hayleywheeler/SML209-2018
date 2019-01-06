@@ -16,79 +16,79 @@
     <th> Hello! </th> 
   </tr> 
   <tr>
-    <th> ¿Qué tal? </th>
+    <th> <a href="http://www.spanishdict.com/translate/que%20tal"> ¿Qué tal? </a></th>
     <th> How are you? </th> 
   </tr> 
   <tr> 
-    <th> Bien! </th>
+    <th> <a href="http://www.spanishdict.com/translate/bien">Bien! </a></th>
     <th> Good! </th>
   </tr> 
   <tr>  
-    <th> Quisiera...</th> 
+    <th> <a href="http://www.spanishdict.com/translate/quisiera">Quisiera...</a></th> 
     <th> I would like... </th> 
     </tr> 
   <tr> 
-    <th> Sí</th>
+    <th> <a href="http://www.spanishdict.com/translate/yes">Sí</a></th>
     <th> Yes </th>
   </tr>
    <tr> 
-    <th> No</th>
+     <th> <a href="http://www.spanishdict.com/translate/no">No</a></th>
     <th> No </th>
   </tr>
    <tr> 
-    <th> Por favor</th>
+     <th> <a href="http://www.spanishdict.com/translate/por%20favor">Por favor</a></th>
     <th> Please </th>
   </tr>
    <tr> 
-    <th> Gracias </th>
+     <th> <a href="http://www.spanishdict.com/translate/thank%20you">Gracias </a></th>
     <th> Thank you </th>
   </tr>
    <tr> 
-    <th> Buenos días!</th>
+     <th> <a href="http://www.spanishdict.com/translate/buenos%20dias">Buenos días!</a></th>
     <th> Good morning! </th>
   </tr>
   <tr> 
-    <th> Buenas noches!</th>
+    <th> <a href="http://www.spanishdict.com/translate/buenas%20noches">Buenas noches!</a></th>
     <th> Good evening! </th>
   </tr>
   <tr> 
-    <th> Me llamo</th>
+    <th> <a href="http://www.spanishdict.com/translate/my%20name%20is">Me llamo</a></th>
     <th> My name is </th>
   </tr>
   <tr> 
-    <th> La playa </th>
+    <th> <a href="http://www.spanishdict.com/translate/beach">La playa </a></th>
     <th> The beach </th>
   </tr>
   <tr> 
-    <th> El hotel</th>
+    <th> <a href="http://www.spanishdict.com/translate/hotel">El hotel</a></th>
     <th> The hotel </th>
   </tr>
   <tr> 
-    <th> El restaurante</th>
+    <th> <a href="http://www.spanishdict.com/translate/restaurant">El restaurante</a></th>
     <th> The restaurant </th>
   </tr>
     <tr> 
-    <th> La tienda </th>
+      <th> <a href="http://www.spanishdict.com/translate/shop">La tienda </a></th>
     <th> The shop </th>
   </tr>
     <tr> 
-    <th> El supermercado </th>
+      <th> <a href="http://www.spanishdict.com/translate/supermarket">El supermercado </a></th>
     <th> The supermarket </th>
   </tr>
     <tr> 
-    <th> Tengo </th>
+      <th> <a href="http://www.spanishdict.com/translate/i%20have">Tengo </a></th>
     <th> I have </th>
   </tr>
     <tr> 
-    <th> Familia </th>
+      <th> <a href="http://www.spanishdict.com/translate/family">Familia </a></th>
     <th> Family </th>
   </tr>
     <tr> 
-    <th> Madre </th>
+      <th> <a href="">Madre </a></th>
     <th> Mother </th>
   </tr>
     <tr> 
-    <th> Padre </th>
+    <th> <a href="">Padre </</th>
     <th> Father </th>
   </tr>
     <tr> 
