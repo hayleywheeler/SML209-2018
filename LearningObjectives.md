@@ -3,7 +3,7 @@
 
 <h1 style="color:red;"> Everything You Will Need To Know </h1>
 <p>
-<p> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to, after you have learnt everything on this beginner website. When you're ready, click to see the Spanish alphabet and let's get started! </p>
+<p> So... let's begin! Here is a table of the vocabularly we will be learning. You might want to refer back to this should you ever need to, after you have learnt everything on this beginner website. Each Spanish word has a link to SpanishDict should you need to hear the audio pronunciation or further definitions. When you're ready, click to see the Spanish alphabet and let's get started! </p>
 
 <p>
   <a style="float:right;" href="TheAlphabet.html" class="btn2"> Go to the Spanish Alphabet</a>
@@ -12,7 +12,7 @@
 
 <table style="color:red;"> 
   <tr> 
-    <th> ¡Hola! </th>
+    <th> <a href="http://www.spanishdict.com/translate/hello">¡Hola!</a> </th>
     <th> Hello! </th> 
   </tr> 
   <tr>
