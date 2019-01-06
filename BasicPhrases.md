@@ -9,6 +9,8 @@
 
 <hr> 
 
+<img src="https://static.wixstatic.com/media/43be81_9316e0f433a1410fa305a86e749389f2.png" alt="Hola" style="float:right;">
+
 <p> Now you have seen a few Spanish phrases in day-to-day situations, let's memorise them! Some you may have already met in the previous exercise, but some you may have only seen on the 'Learning Objective' page which you can go back to using the top navigation bar! Otherwise, give it a shot or just click 'check' on the activity to find the definition. You may need a Spanish keyboard to answer some of the questions, you can easily find this on your desktop or by switching keyboards on your smartphone. </p> 
 
 <p>
