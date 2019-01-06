@@ -9,7 +9,7 @@
 
 <hr> 
 
-<img src="https://saintambroseschool.us/wp-content/uploads/2017/04/Hola.jpg" alt="Hola" style="float:right;">
+<img src="https://s3.amazonaws.com/tinycards/image/1d73872383bca5edcd2c52e99296730e" alt="Hola" style="float:right;">
 
 <p> Now you have seen a few Spanish phrases in day-to-day situations, let's memorise them! Some you may have already met in the previous exercise, but some you may have only seen on the 'Learning Objective' page which you can go back to using the top navigation bar! Otherwise, give it a shot or just click 'check' on the activity to find the definition. You may need a Spanish keyboard to answer some of the questions, you can easily find this on your desktop or by switching keyboards on your smartphone. </p> 
 
