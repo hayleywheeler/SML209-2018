@@ -2,7 +2,7 @@
 <hr> 
 <p> We all know that nouns are things, people or places but how do we put these things into Spanish? Simple, use the exercises below and let's get learning! </p> 
 
-<img src="http://personplaceorthing.us/wp-content/uploads/2018/07/cropped-PPOTLOGOcolor-1.png" alt="Noun Definition" style="float:right;">
+<img src="http://personplaceorthing.us/wp-content/uploads/2018/07/cropped-PPOTLOGOcolor-1.png" alt="Noun Definition" style="float:left;">
 
   <p> To start, click below and have a look at the activity to see the new vocabularly. </p> 
   
