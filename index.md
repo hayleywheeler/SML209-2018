@@ -7,19 +7,16 @@
 <ul> <li> Basic vocabulary; who you are, how old you are, where you live, places and food. </li>
 <li> Basic grammar; basic verb conjugation, masculine and feminine nouns and adjectives. </li> 
 <li> Pronunciation </li>
-<li> And most importantly, how to act like a real Spaniard. </li></ul> </font>
+<li> And most importantly, how to act like a real Spaniard. </li></ul>
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="50%"> 
 
 <h3> <em style="color:red;"> Did you know? </em> </h3>
 
-<p> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.
-
-</p>
+<p> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.</p>
 
 <hr> 
 
-<p style="clear:both;"></p>
 <p> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TCRxFKWh_MvFBfFMphvu6G6cd2xhLytF" width="640" height="480"></iframe>
