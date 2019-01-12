@@ -11,7 +11,7 @@
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="50%"> 
 
-<h3 em style="color:red;"> Did you know? </em> 
+<h3> <em style="color:red;"> Did you know? </em> </h3>
 
 <p> That there are more than 20 Spanish speaking countries, meaning that you will need atleast some Spanish knowledge if you holiday to countries such as, Argentina, Chile, Mexico, Nicaragua and of course Spain! There are approximately 350 million native Spanish speakers in the world.
 
