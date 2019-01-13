@@ -80,28 +80,24 @@
     <th> I have </th>
   </tr>
     <tr> 
-      <th> <a href="http://www.spanishdict.com/translate/family">Familia </a></th>
-    <th> Family </th>
+      <th> El pollo</th>
+    <th> The chicken </th>
   </tr>
     <tr> 
-      <th> <a href="">Madre </a></th>
-    <th> Mother </th>
+      <th> El bocadillo</th>
+    <th> The sandwich</th>
   </tr>
     <tr> 
-    <th> <a href="">Padre </</th>
-    <th> Father </th>
+    <th> La sopa</th>
+    <th> The soup </th>
   </tr>
     <tr> 
-    <th> Hermana </th>
-    <th> Sister </th>
+    <th> Las patatas fritas </th>
+    <th> The chips </th>
   </tr>
     <tr> 
-    <th> Hermano </th>
-    <th> Brother </th>
-  </tr>
-   <tr> 
-    <th> Años </th>
-    <th> Years </th>
+    <th> La ensalada </th>
+    <th> The salad </th>
   </tr>
    
 
