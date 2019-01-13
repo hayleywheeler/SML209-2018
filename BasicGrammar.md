@@ -18,15 +18,49 @@
      <th> Estás </th>
      <th> You are </th>
    <tr> 
-     <th> Está </th>
+     <th style="color;red:"> Está </th>
      <th> He/she it is </th>
    <tr> 
      <th> Estamos </th>
      <th> We are </th> 
    <tr> 
      <th> Estáis</th>
-     <th> You (plural )are </th>
+     <th> You (plural) are </th>
    <tr> 
      <th> Están </th>
      <th> They are </th>
       
+<table> 
+  <tr> 
+    <th> Quiero </th>
+    <th> To want </th>
+   <tr> 
+     <th style="color;red:"> Quiero </th> 
+     <th> I am </th> 
+   <tr> 
+     <th> Quieres </th>
+     <th> You want </th>
+   <tr> 
+     <th> Quiere </th>
+     <th> He wants </th>
+   <tr> 
+     <th> Queremos </th>
+     <th> We want </th> 
+   <tr> 
+     <th> Queréis</th>
+     <th> You (plural) want </th>
+   <tr> 
+     <th> Quieren </th>
+     <th> They want </th>
+     
+  <hr> 
+  <p>It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
+  
+<hr>
+<p> As mentioned on the Basic Nouns page, all nouns denote as masculine or feminine. Follow the link below to see if you can remember how to tell the difference... </p>
+
+ <p>
+  <a style="float:right;" href="Grammar2.html" class="btn2"> Go to Grammar Exercise 2</a>
+  </p> 
+  <div style="clear:both;"> </div>
+    
