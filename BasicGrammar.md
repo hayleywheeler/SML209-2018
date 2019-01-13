@@ -19,7 +19,7 @@
 <p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below is a small exercise. </p>
  
  <p>
-  <a style="float:right;" href="BasicGrammar.html" class="btn2"> Go to back to Basic Grammar</a>
+  <a style="float:right;" href="Grammar2.html" class="btn2"> Go to Grammar Exercise 2</a>
   </p> 
   <div style="clear:both;"> </div>
   
