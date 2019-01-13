@@ -4,10 +4,12 @@
 <hr>
 
 <p> On this site, you will be able to learn and revise the following content. </p> 
-<ul> <li> Basic vocabulary; who you are, how old you are, where you live, places and food. </li>
+<ul> 
+  <li> The alphabet. </li>
+<li> Basic vocabulary; places and food. </li>
 <li> Basic grammar; basic verb conjugation, masculine and feminine nouns and adjectives. </li> 
 <li> Pronunciation </li>
-<li> And most importantly, how to act like a real Spaniard. </li></ul>
+<li> And most importantly, how to communicate like a real Spaniard. </li></ul>
 
 <img class="imgLeft" src="https://www.worldatlas.com/spanish.png" alt= "Image of Spanish Flag" width="50%"> 
 
@@ -17,7 +19,7 @@
 
 <hr> 
 
-<p> Below is a world map showing the countires in which Spanish is spoken as their native language.</p>
+<p> Below is a world map showing the countires in which Spanish is spoken as their native language. Have a look, maybe one of these is your next planned holiday destination! </p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TCRxFKWh_MvFBfFMphvu6G6cd2xhLytF" width="640" height="480"></iframe>
 
