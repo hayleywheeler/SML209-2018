@@ -14,7 +14,7 @@
 
 <hr> 
 
-<p> In English, we change a verb (to be) depending on the person. For example, I am, you are, he/she is and so on, they also do this in Spanish. Below is a few tables with different verbs and the ones you need to know for this website mini-course are highlighted to make it 10x easier. </p>
+<p> In English, we change verbs, such as to be, depending on the person. For example, I am, you are, he/she is and so on, they also do this in Spanish. Below is a few tables with two different verbs and the ones you need to know for this website mini-course are highlighted to make it 10x easier. </p>
 
 <p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below is a small exercise. </p>
  
@@ -61,3 +61,6 @@
      <td> Quieren </td>
      <td> They want </td>
     
+    
+   <hr>
+   <p> So you've made it this far, well done! If you would like to get any extra practice in, below is a link with numerous activities if you're really getting into the Spanish swing of things. Give it a go, why not?! </p>
