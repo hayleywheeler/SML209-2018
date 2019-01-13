@@ -14,36 +14,36 @@
     <th> Querer </th>
     <th> To want </th>
    <tr> 
-     <td> Estoy </th> 
-     <td> I am </th> 
-     <td bgcolor="#FF0000"> Quiero </th> 
-     <td bgcolor="#FF0000"> I am </th> 
+     <td> Estoy </td> 
+     <td> I am </td> 
+     <td bgcolor="#FF0000"> Quiero </td> 
+     <td bgcolor="#FF0000"> I am </td> 
    <tr> 
-     <td> Estás </th>
-     <td> You are </th>
-     <td> Quieres </th>
-     <td> You want </th>
+     <td> Estás </td>
+     <td> You are </td>
+     <td> Quieres </td>
+     <td> You want </td>
      
    <tr> 
-     <td bgcolor="#FF0000"> Está </th>
-     <td bgcolor="#FF0000"> He/she it is </th>
-     <td> Quiere </th>
-     <td> He wants </th>
+     <td bgcolor="#FF0000"> Está </td>
+     <td bgcolor="#FF0000"> He/she it is </td>
+     <td> Quiere </td>
+     <td> He wants </td>
    <tr> 
-     <td> Estamos </th>
-     <td> We are </th> 
-      <td> Queremos </th>
-     <td> We want </th>
+     <td> Estamos </td>
+     <td> We are </td> 
+      <td> Queremos </td>
+     <td> We want </td>
    <tr> 
-     <td> Estáis</th>
-     <td> You (plural) are </th>
-      <td> Queréis</th>
-     <td> You (plural) want </th>
+     <td> Estáis</td>
+     <td> You (plural) are </td>
+      <td> Queréis</td>
+     <td> You (plural) want </td>
    <tr> 
-     <td> Están </th>
-     <td> They are </th>
-     <td> Quieren </th>
-     <td> They want </th>
+     <td> Están </td>
+     <td> They are </td>
+     <td> Quieren </td>
+     <td> They want </td>
  
  <hr> 
   
