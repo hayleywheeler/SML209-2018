@@ -51,6 +51,6 @@
 <h3 style="color;red:"> Let's get into learning then! </h3> 
 
  <p>
-  <a style="float:right;" href="BasicPhrases.html" class="btn2"> Go to Basic Phrases</a>
+  <a style="float:right;" href="LearningObjectives.html" class="btn2"> Go to Learning Objectives</a>
   </p> 
   <div style="clear:both;"> </div>
