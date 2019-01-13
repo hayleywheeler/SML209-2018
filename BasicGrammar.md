@@ -2,11 +2,22 @@
 <h1 style="color:red;"> Getting to grips with grammar!... </h1> 
 
 <p> So as dull as it sounds, we really need to make sure we have the right grammar so we can show off all the Spanish that we have learnt. You can't ask someone where the hotel is if you don't know how to say 'it is'! Without going into too much detail, we are going to show you how to conjugate verbs and use pronouns so that even though the Spanish you have learnt is minor, it will get you great results around the world! <p> 
-  
+   
+<hr>
+
+<p> As mentioned on the Basic Nouns page, all nouns denote as masculine or feminine. Follow the link below to see if you can remember how to tell the difference... </p>
+
+ <p>
+  <a style="float:right;" href="Grammar1.html" class="btn2"> Go to Grammar Exercise 1</a>
+  </p> 
+  <div style="clear:both;"> </div>
+
 <hr> 
+
 <p> In English, we change a verb (to be) depending on the person. For example, I am, you are, he/she is and so on, they also do this in Spanish. Below is a few tables with different verbs and the ones you need to know for this website mini-course are highlighted to make it 10x easier. </p>
 
-
+<p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
+ 
 <table> 
   <tr> 
     <th> Estar </th>
@@ -44,17 +55,4 @@
      <td> They are </td>
      <td> Quieren </td>
      <td> They want </td>
-</table>
- 
- <hr> 
-  
-  <p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
-  
-<hr>
-<p> As mentioned on the Basic Nouns page, all nouns denote as masculine or feminine. Follow the link below to see if you can remember how to tell the difference... </p>
-
- <p>
-  <a style="float:right;" href="Grammar2.html" class="btn2"> Go to Grammar Exercise 2</a>
-  </p> 
-  <div style="clear:both;"> </div>
     
