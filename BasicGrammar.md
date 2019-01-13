@@ -16,8 +16,13 @@
 
 <p> In English, we change a verb (to be) depending on the person. For example, I am, you are, he/she is and so on, they also do this in Spanish. Below is a few tables with different verbs and the ones you need to know for this website mini-course are highlighted to make it 10x easier. </p>
 
-<p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
+<p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below is a small exercise. </p>
  
+ <p>
+  <a style="float:right;" href="BasicGrammar.html" class="btn2"> Go to back to Basic Grammar</a>
+  </p> 
+  <div style="clear:both;"> </div>
+  
 <table> 
   <tr> 
     <th> Estar </th>
