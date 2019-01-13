@@ -7,7 +7,7 @@
 <ul> 
   <li> The alphabet. </li>
 <li> Basic vocabulary; places and food. </li>
-<li> Basic grammar; basic verb conjugation, masculine and feminine nouns and adjectives. </li> 
+<li> Basic grammar; basic verb conjugation, identifying masculine and feminine nouns. </li> 
 <li> Pronunciation </li>
 <li> And most importantly, how to communicate like a real Spaniard. </li></ul>
 
