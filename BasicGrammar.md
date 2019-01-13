@@ -62,5 +62,4 @@
      <td> They want </td>
     
     
-   <hr>
-   <p> So you've made it this far, well done! If you would like to get any extra practice in, below is a link with numerous activities if you're really getting into the Spanish swing of things. Give it a go, why not?! </p>
+  
