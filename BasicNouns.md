@@ -11,7 +11,7 @@
   </p> 
   <div style="clear:both;"> </div>
   
-  <p> If you feel you need some extra practice then click the following link to consolidate your knowledge. If not, let's keep on learning! Try the exercise below. 
+  <p> If you feel you need some extra practice then click the following link below to consolidate that knowledge. </p>
   
   <p>
   <a style="float:right;" href="Nouns2.html" class="btn2"> Go to Basic Nouns Places</a>
