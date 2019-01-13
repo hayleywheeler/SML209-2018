@@ -11,51 +11,45 @@
   <tr> 
     <th> Estar </th>
     <th> To be </th>
+    <th> Querer </th>
+    <th> To want </th>
    <tr> 
      <th> Estoy </th> 
      <th> I am </th> 
+     <th bgcolor="#FF0000"> Quiero </th> 
+     <th bgcolor="#FF0000"> I am </th> 
    <tr> 
      <th> Estás </th>
      <th> You are </th>
-   <tr style="color;red:"> 
-     <th> Está </th>
-     <th> He/she it is </th>
-   <tr> 
-     <th> Estamos </th>
-     <th> We are </th> 
-   <tr> 
-     <th> Estáis</th>
-     <th> You (plural) are </th>
-   <tr> 
-     <th> Están </th>
-     <th> They are </th>
-      
-<table> 
-  <tr> 
-    <th> Querer </th>
-    <th> To want </th>
-   <tr style="color;red:"> 
-     <th> Quiero </th> 
-     <th> I am </th> 
-   <tr> 
      <th> Quieres </th>
      <th> You want </th>
+     
    <tr> 
+     <th bgcolor="#FF0000"> Está </th>
+     <th bgcolor="#FF0000"> He/she it is </th>
      <th> Quiere </th>
      <th> He wants </th>
    <tr> 
-     <th> Queremos </th>
-     <th> We want </th> 
+     <th> Estamos </th>
+     <th> We are </th> 
+      <th> Queremos </th>
+     <th> We want </th>
    <tr> 
-     <th> Queréis</th>
+     <th> Estáis</th>
+     <th> You (plural) are </th>
+      <th> Queréis</th>
      <th> You (plural) want </th>
    <tr> 
+     <th> Están </th>
+     <th> They are </th>
      <th> Quieren </th>
-     <th> They want </th> 
-  <div style="clear:both;"> </div>
-  <hr> 
+     <th> They want </th>
+     
+ </table>
+ 
+ <hr> 
   
-  <p>It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
+  <p> It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
   
 <hr>
 <p> As mentioned on the Basic Nouns page, all nouns denote as masculine or feminine. Follow the link below to see if you can remember how to tell the difference... </p>
