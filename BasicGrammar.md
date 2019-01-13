@@ -17,8 +17,8 @@
    <tr> 
      <th> Estás </th>
      <th> You are </th>
-   <tr> 
-     <th style="color;red:"> Está </th>
+   <tr style="color;red:"> 
+     <th> Está </th>
      <th> He/she it is </th>
    <tr> 
      <th> Estamos </th>
@@ -32,10 +32,10 @@
       
 <table> 
   <tr> 
-    <th> Quiero </th>
+    <th> Querer </th>
     <th> To want </th>
-   <tr> 
-     <th style="color;red:"> Quiero </th> 
+   <tr style="color;red:"> 
+     <th> Quiero </th> 
      <th> I am </th> 
    <tr> 
      <th> Quieres </th>
@@ -51,9 +51,10 @@
      <th> You (plural) want </th>
    <tr> 
      <th> Quieren </th>
-     <th> They want </th>
-     
+     <th> They want </th> 
+  <div style="clear:both;"> </div>
   <hr> 
+  
   <p>It's not essential that you remember all the content of these tables, but it is a good start! If you would like to give it a go, below are some exercises. </p>
   
 <hr>
