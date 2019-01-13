@@ -43,7 +43,8 @@
      <td> Están </td>
      <td> They are </td>
      <td> Quieren </td>
-     <td> They want </td> </table>
+     <td> They want </td>
+</table>
  
  <hr> 
   
