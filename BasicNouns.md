@@ -18,7 +18,7 @@
   </p> 
   <div style="clear:both;"> </div>
 
-<p> So now we have the hang of a few things, let's talk it out. As you may have noticed, there are two different words meaning 'the' in Spanish, 'el' and 'la'. We won't let things get too complicated but if the word ends in an 'a', 'the' will become 'la' as the word is described as feminine. If the word ends in any other letter (most of the time anyway) 'the' will be 'el' as the noun will be described as feminine. If you want to find out more, you can read up on this on the Basic Grammar page when you get there. Nonetheless, at this point don't worry too much! </p>
+<p> So now we have the hang of a few things, let's talk it out. As you may have noticed, there are two different words meaning 'the' in Spanish, 'el' and 'la'. We won't let things get too complicated but if the word ends in an 'a', 'the' will become 'la' as the word is described as feminine. If the word ends in any other letter (most of the time anyway) 'the' will be 'el' as the noun will be described as masculine. If you want to find out more, you can read up on this on the Basic Grammar page when you get there. Nevertheless, at this point don't worry too much! </p>
  <hr>
  <p> Now let's get learning some phrases, the next step to get those Spanish conversational skills going! </p> 
  
