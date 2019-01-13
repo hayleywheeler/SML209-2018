@@ -19,7 +19,7 @@
 
 <hr> 
 
-<p> Below is a world map showing the countires in which Spanish is spoken as their native language. Have a look, maybe one of these is your next planned holiday destination! </p>
+<p> Below is a world map showing the countries in which Spanish is spoken as their native language. Have a look, maybe one of these is your next planned holiday destination! </p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TCRxFKWh_MvFBfFMphvu6G6cd2xhLytF" width="640" height="480"></iframe>
 
@@ -47,3 +47,10 @@
 
 <hr> 
 <div style="clear:both;"></div>
+
+<h3 style"color;red:"> Let's get into learning then! </h3> 
+
+ <p>
+  <a style="float:right;" href="BasicPhrases.html" class="btn2"> Go to Basic Phrases</a>
+  </p> 
+  <div style="clear:both;"> </div>
